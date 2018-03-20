@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="touchdown">touchdown</string>
+    <string name="team_name">Enter a team name</string>
+    <string name="zero">0</string>
+    <string name="field_goal">field goal</string>
+    <string name="safety">safety</string>
+    <string name="reset">reset</string>
+</resources>
