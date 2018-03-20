@@ -6,7 +6,13 @@
         <!-- Background color of buttons in the app -->
         <item name="colorButtonNormal">@color/colorPrimaryDark</item>
     </style>
-    <style name="myTheme.ActionBar.Text" parent="@android:style/TextAppearance">
-        <item name="android:textColor">#FFFFFFFF</item>
-    </style>
+    <color
+        name="button_colors"
+        >#FFFFFF</color>
+    <color
+        name="score_colors"
+        >#000000</color>
+    <color
+        name="team_name_colors"
+        >#616161</color>
 </resources>
