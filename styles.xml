@@ -10,6 +10,9 @@
         name="button_colors"
         >#FFFFFF</color>
     <color
+        name="background_colors"
+        >#FFFFFF</color>
+    <color
         name="score_colors"
         >#000000</color>
     <color
